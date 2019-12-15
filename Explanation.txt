@@ -1,0 +1,8 @@
+MERGE SORT EXPLANATION
+
+1.Input the array to be sorted
+2.now split the array into 2 halves
+3.load the 2 halves into 2 differnt arrays
+4.
+4.now in the main array take the 1st element as the key
+5.now compare the 1st element in the 1st half and the 2nd e
